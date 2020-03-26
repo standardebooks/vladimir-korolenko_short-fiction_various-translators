@@ -50,6 +50,8 @@
 		<!-- The Shades, A Phantasy -->
 		<dc:source>http://www.gutenberg.org/ebooks/13437</dc:source>
 		<dc:source>https://archive.org/details/bestrussianshort00selt</dc:source>
+		<!-- The Last Ray -->
+		<dc:source>https://hdl.handle.net/2027/umn.31951001922158l?urlappend=%3Bseq=580</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -84,6 +86,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
