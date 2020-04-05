@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/vladimir-korolenko/short-fiction/aline-delano</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/vladimir-korolenko/short-fiction/aline-delano_sergius-stepniak_william-westall_thomas-seltzer_the-russian-review_marian-fell_clarence-manning</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -44,29 +44,29 @@
 			LONG_DESCRIPTION
 		]]></meta>
 		<dc:language>en-US</dc:language>
-		<!-- The Blind Musician -->
+		<!-- The Vagrant, and Other Stories, tr. Aline Delano, 1887 -->
+		<dc:source>https://archive.org/details/vagrantothertale00kororich</dc:source>
+		<!-- The Blind Musician, tr. Aline Delano, 1890 -->
 		<dc:source>https://www.gutenberg.org/ebooks/59497</dc:source>
 		<dc:source>https://archive.org/details/blindmusician00koro</dc:source>
-		<!-- The Shades, A Phantasy -->
+		<!-- In Two Moods, tr. Sergius Stepniak and William Westall, 1891 -->
+		<dc:source>https://archive.org/details/intwomoodsalsoin00koro</dc:source>
+		<!-- The Shades, A Phantasy, tr. Thomas Seltzer, 1907 -->
 		<dc:source>http://www.gutenberg.org/ebooks/13437</dc:source>
 		<dc:source>https://archive.org/details/bestrussianshort00selt</dc:source>
-		<!-- Lights / The Last Ray / The Old Bell-Ringer -->
-		<dc:source>https://hdl.handle.net/2027/umn.31951001922158l</dc:source>
+		<!-- Lights / The Last Ray / The Old Bell-Ringer, tr. “for The Russian Review”, 1916 -->
 		<dc:source>https://en.wikisource.org/wiki/The_Russian_Review/Volume_1/June_1916/The_Old_Bell-Ringer</dc:source>
-		<!-- Makar’s Dream, and Other Stories -->
+		<dc:source>https://hdl.handle.net/2027/umn.31951001922158l</dc:source>
+		<!-- Makar’s Dream, and Other Stories, tr. Marian Fell, 1916 -->
 		<dc:source>https://archive.org/details/makarsdreamother00koroiala</dc:source>
-		<!-- Birds of Heaven, and Other Stories -->
+		<!-- Birds of Heaven, and Other Stories, tr. Clarence Manning, 1919 -->
 		<dc:source>https://www.gutenberg.org/ebooks/60256</dc:source>
 		<dc:source>https://archive.org/details/birdsheavenando00manngoog</dc:source>
-		<!-- The Vagrant, and Other Stories -->
-		<dc:source>https://archive.org/details/vagrantothertale00kororich</dc:source>
-		<!-- In Two Moods -->
-		<dc:source>https://archive.org/details/intwomoodsalsoin00koro</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/vladimir-korolenko_short-fiction_aline-delano</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/vladimir-korolenko_short-fiction_aline-delano_sergius-stepniak_william-westall_thomas-seltzer_the-ru</meta>
 		<dc:creator id="author">Vladimir Korolenko</dc:creator>
 		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
 		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
@@ -74,13 +74,51 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n83058479</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Aline Delano</dc:contributor>
-		<meta property="file-as" refines="#translator">TRANSLATOR_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">TRANSLATOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">TRANSLATOR_NACOAF_URL</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-1">Aline Delano</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Delano, Aline</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n90656005</meta>
+		<meta property="display-seq" refines="#translator-1">1</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-2">Sergius Stepniak</dc:contributor>
+		<meta property="file-as" refines="#translator-2">Stepniak, Sergius</meta>
+		<meta property="alternate-script" refines="#translator-2" xml:lang="ukr">Сергій Михайлович Степняк-Кравчинський</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Sergey_Stepnyak-Kravchinsky</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n79111446</meta>
+		<meta property="display-seq" refines="#translator-2">2</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-3">William Westall</dc:contributor>
+		<meta property="file-as" refines="#translator-3">Westall, William</meta>
+		<meta property="se:name.person.full-name" refines="#translator-3">William Bury Westall</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/William_Bury_Westall</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/n86041860</meta>
+		<meta property="display-seq" refines="#translator-3">3</meta>
+		<meta property="role" refines="#translator-3" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-4">Thomas Seltzer</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Seltzer, Thomas</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/nr90003742</meta>
+		<meta property="display-seq" refines="#translator-4">4</meta>
+		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-5">The Russian Review</dc:contributor>
+		<meta property="file-as" refines="#translator-5">Russian Review, The</meta>
+		<meta property="display-seq" refines="#translator-5">5</meta>
+		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-6">Marian Fell</dc:contributor>
+		<meta property="file-as" refines="#translator-6">Fell, Marian</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-6">http://id.loc.gov/authorities/names/nr91031335</meta>
+		<meta property="display-seq" refines="#translator-6">6</meta>
+		<meta property="role" refines="#translator-6" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-7">Clarence Manning</dc:contributor>
+		<meta property="file-as" refines="#translator-7">Manning, Clarence</meta>
+		<meta property="se:name.person.full-name" refines="#translator-7">Clarence Augustus Manning</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-7">https://en.wikipedia.org/wiki/Clarence_Manning</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-7">http://id.loc.gov/authorities/names/n80030837</meta>
+		<meta property="display-seq" refines="#translator-7">7</meta>
+		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
