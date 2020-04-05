@@ -127,10 +127,12 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-7">http://id.loc.gov/authorities/names/n80030837</meta>
 		<meta property="display-seq" refines="#translator-7">7</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Ivan Shishkin</dc:contributor>
+		<meta property="file-as" refines="#artist">Shishkin, Ivan</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ivan_Shishkin</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Ivan Ivanovich Shishkin</meta>
+		<meta property="alternate-script" refines="#artist" xml:lang="ru">Ива́н Ива́нович Ши́шкин</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82119235</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">George Kennan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Kennan, George</meta>
