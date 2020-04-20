@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="in-two-moods.xhtml">
-		<ignore>
-			<code>t-030</code>
-			<reason>We don’t initialise U.S.A.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
