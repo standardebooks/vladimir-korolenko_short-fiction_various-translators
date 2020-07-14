@@ -46,10 +46,11 @@
 		<meta property="term" refines="#subject-5">sh2008116778</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONG_DESCRIPTION
-		]]></meta>
+		<dc:description id="description">A collection of Vladimir Korolenko’s translated short stories and novellas, ordered by date of translated publication.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/vladimir-korolenko"&gt;Vladimir Korolenko&lt;/a&gt; was a Ukrainian author and humanitarian. His short stories and novellas draw both on the myths and traditions of his birthplace, and his experiences of Siberia as a political exile due to his outspoken criticism of both the Tsars and the Bolsheviks. His first short story was published in 1879, and over the next decade he received many plaudits from critics and other authors including from &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt;, although also some criticism for perceived uneven quality. He continued writing short stories for the rest of his career, but thought of himself more as a journalist and human rights advocate.&lt;/p&gt;
+			&lt;p&gt;Korolenko’s work focuses on the lives and experiences of poor and down-on-their-luck people; this collection includes stories about life on the road (“A Saghálinian” and “Birds of Heaven”), life in the forest (“Makar’s Dream” and “The Murmuring Forest”), religious experience (“The Old Bell-Ringer,” “The Day of Atonement” and “On the Volva”) and many more. Collected here are all of the available public domain translations into English of Korolenko’s short stories and novels, in chronological order of their translated publication. They were translated by Aline Delano, Sergius Stepniak, William Westall, Thomas Seltzer, Marian Fell, Clarence Manning and The Russian Review.&lt;/p&gt;
+		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- The Vagrant, and Other Stories, tr. Aline Delano, 1887 -->
 		<dc:source>https://archive.org/details/vagrantothertale00kororich</dc:source>
@@ -69,7 +70,6 @@
 		<!-- Birds of Heaven, and Other Stories, tr. Clarence Manning, 1919 -->
 		<dc:source>https://www.gutenberg.org/ebooks/60256</dc:source>
 		<dc:source>https://archive.org/details/birdsheavenando00manngoog</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
