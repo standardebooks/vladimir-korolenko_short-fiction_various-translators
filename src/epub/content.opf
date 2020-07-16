@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/vladimir-korolenko/short-fiction/aline-delano_sergius-stepniak_william-westall_thomas-seltzer_the-russian-review_marian-fell_clarence-manning</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-07-16T19:50:13Z</dc:date>
+		<meta property="dcterms:modified">2020-07-16T19:50:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,8 +48,8 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Vladimir Korolenko’s translated short stories and novellas, ordered by date of translated publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/vladimir-korolenko"&gt;Vladimir Korolenko&lt;/a&gt; was a Ukrainian author and humanitarian. His short stories and novellas draw both on the myths and traditions of his birthplace, and his experiences of Siberia as a political exile due to his outspoken criticism of both the Tsars and the Bolsheviks. His first short story was published in 1879, and over the next decade he received many plaudits from critics and other authors including from &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt;, although also some criticism for perceived uneven quality. He continued writing short stories for the rest of his career, but thought of himself more as a journalist and human rights advocate.&lt;/p&gt;
-			&lt;p&gt;Korolenko’s work focuses on the lives and experiences of poor and down-on-their-luck people; this collection includes stories about life on the road (“A Saghálinian” and “Birds of Heaven”), life in the forest (“Makar’s Dream” and “The Murmuring Forest”), religious experience (“The Old Bell-Ringer,” “The Day of Atonement” and “On the Volva”) and many more. Collected here are all of the available public domain translations into English of Korolenko’s short stories and novels, in chronological order of their translated publication. They were translated by Aline Delano, Sergius Stepniak, William Westall, Thomas Seltzer, Marian Fell, Clarence Manning and The Russian Review.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/vladimir-korolenko"&gt;Vladimir Korolenko&lt;/a&gt; was a Ukrainian author and humanitarian. His short stories and novellas draw both on the myths and traditions of his birthplace, and his experiences of Siberia as a political exile due to his outspoken criticism of both the Tsars and the Bolsheviks. His first short story was published in 1879, and over the next decade he received many plaudits from critics and other authors, including &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt;, though he also received some criticism for perceived uneven quality. He continued writing short stories for the rest of his career, but thought of himself more as a journalist and human rights advocate.&lt;/p&gt;
+			&lt;p&gt;Korolenko’s work focuses on the lives and experiences of poor and down-on-their-luck people; this collection includes stories about life on the road (“A Saghálinian” and “Birds of Heaven”), life in the forest (“Makar’s Dream” and “The Murmuring Forest”), religious experience (“The Old Bell-Ringer,” “The Day of Atonement” and “On the Volva”) and many more. Collected here are all of the available public domain translations into English of Korolenko’s short stories and novels, in chronological order of their translated publication. They were translated by Aline Delano, Sergius Stepniak, William Westall, Thomas Seltzer, Marian Fell, Clarence Manning and &lt;i&gt;The Russian Review&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- The Vagrant, and Other Stories, tr. Aline Delano, 1887 -->
@@ -70,8 +70,8 @@
 		<!-- Birds of Heaven, and Other Stories, tr. Clarence Manning, 1919 -->
 		<dc:source>https://www.gutenberg.org/ebooks/60256</dc:source>
 		<dc:source>https://archive.org/details/birdsheavenando00manngoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">234657</meta>
+		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/vladimir-korolenko_short-fiction_aline-delano_sergius-stepniak_william-westall_thomas-seltzer_the-ru</meta>
 		<dc:creator id="author">Vladimir Korolenko</dc:creator>
 		<meta property="file-as" refines="#author">Korolenko, Vladimir</meta>
@@ -156,6 +156,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
