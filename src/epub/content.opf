@@ -78,7 +78,7 @@
 		<meta property="se:name.person.full-name" refines="#author">Vladimir Galaktionovich Korolenko</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Влади́мир Галактио́нович Короле́нко</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Vladimir_Korolenko</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n83058479</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83058479</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Aline Delano</dc:contributor>
