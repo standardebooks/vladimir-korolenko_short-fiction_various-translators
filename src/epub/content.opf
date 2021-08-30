@@ -71,7 +71,7 @@
 		<!-- Birds of Heaven, and Other Stories, tr. Clarence Manning, 1919 -->
 		<dc:source>https://www.gutenberg.org/ebooks/60256</dc:source>
 		<dc:source>https://archive.org/details/birdsheavenando00manngoog</dc:source>
-		<meta property="se:word-count">234653</meta>
+		<meta property="se:word-count">234655</meta>
 		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/vladimir-korolenko_short-fiction_aline-delano_sergius-stepniak_william-westall_thomas-seltzer_the-ru</meta>
 		<dc:creator id="author">Vladimir Korolenko</dc:creator>
