@@ -45,6 +45,7 @@
 		<meta property="term" refines="#subject-5">sh2008116778</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Vladimir Korolenko’s translated short stories and novellas, ordered by date of translated publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/vladimir-korolenko"&gt;Vladimir Korolenko&lt;/a&gt; was a Ukrainian author and humanitarian. His short stories and novellas draw both on the myths and traditions of his birthplace, and his experiences of Siberia as a political exile due to his outspoken criticism of both the Tsars and the Bolsheviks. His first short story was published in 1879, and over the next decade he received many plaudits from critics and other authors, including &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt;, though he also received some criticism for perceived uneven quality. He continued writing short stories for the rest of his career, but thought of himself more as a journalist and human rights advocate.&lt;/p&gt;
