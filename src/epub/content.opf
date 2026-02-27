@@ -85,7 +85,6 @@
 		<dc:contributor id="translator-1">Aline Delano</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Delano, Aline</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n90656005</meta>
-		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Sergius Stepniak</dc:contributor>
@@ -93,7 +92,6 @@
 		<meta property="alternate-script" refines="#translator-2" xml:lang="ukr">Сергій Михайлович Степняк-Кравчинський</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Sergey_Stepnyak-Kravchinsky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n79111446</meta>
-		<meta property="display-seq" refines="#translator-2">2</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">William Westall</dc:contributor>
@@ -101,23 +99,19 @@
 		<meta property="se:name.person.full-name" refines="#translator-3">William Bury Westall</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/William_Bury_Westall</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/n86041860</meta>
-		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">Thomas Seltzer</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Seltzer, Thomas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/nr90003742</meta>
-		<meta property="display-seq" refines="#translator-4">4</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">The Russian Review</dc:contributor>
 		<meta property="file-as" refines="#translator-5">Russian Review, The</meta>
-		<meta property="display-seq" refines="#translator-5">5</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-6">Marian Fell</dc:contributor>
 		<meta property="file-as" refines="#translator-6">Fell, Marian</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-6">http://id.loc.gov/authorities/names/nr91031335</meta>
-		<meta property="display-seq" refines="#translator-6">6</meta>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-7">Clarence Manning</dc:contributor>
@@ -125,7 +119,6 @@
 		<meta property="se:name.person.full-name" refines="#translator-7">Clarence Augustus Manning</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-7">https://en.wikipedia.org/wiki/Clarence_Manning</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-7">http://id.loc.gov/authorities/names/n80030837</meta>
-		<meta property="display-seq" refines="#translator-7">7</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ivan Shishkin</dc:contributor>
 		<meta property="file-as" refines="#artist">Shishkin, Ivan</meta>
