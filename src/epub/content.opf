@@ -80,7 +80,7 @@
 		<dc:creator id="author">Vladimir Korolenko</dc:creator>
 		<meta property="file-as" refines="#author">Korolenko, Vladimir</meta>
 		<meta property="schema:alternateName" refines="#author">Vladimir Galaktionovich Korolenko</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ru">Влади́мир Галактио́нович Короле́нко</meta>
+		<meta property="alternate-script" refines="#author">Влади́мир Галактио́нович Короле́нко</meta>
 		<link href="https://en.wikipedia.org/wiki/Vladimir_Korolenko" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n83058479.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
@@ -92,7 +92,7 @@
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Sergius Stepniak</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Stepniak, Sergius</meta>
-		<meta property="alternate-script" refines="#translator-2" xml:lang="ukr">Сергій Михайлович Степняк-Кравчинський</meta>
+		<meta property="alternate-script" refines="#translator-2">Сергій Михайлович Степняк-Кравчинський</meta>
 		<link href="https://en.wikipedia.org/wiki/Sergey_Stepnyak-Kravchinsky" refines="#translator-2" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79111446.html" refines="#translator-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
@@ -127,7 +127,7 @@
 		<meta property="file-as" refines="#artist">Shishkin, Ivan</meta>
 		<link href="https://en.wikipedia.org/wiki/Ivan_Shishkin" refines="#artist" rel="schema:sameAs"/>
 		<meta property="schema:alternateName" refines="#artist">Ivan Ivanovich Shishkin</meta>
-		<meta property="alternate-script" refines="#artist" xml:lang="ru">Ива́н Ива́нович Ши́шкин</meta>
+		<meta property="alternate-script" refines="#artist">Ива́н Ива́нович Ши́шкин</meta>
 		<link href="https://id.loc.gov/authorities/names/n82119235.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">George Kennan</dc:contributor>
