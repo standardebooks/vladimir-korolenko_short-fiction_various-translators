@@ -111,6 +111,7 @@
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">The Russian Review</dc:contributor>
 		<meta property="file-as" refines="#translator-5">Russian Review, The</meta>
+		<link href="https://en.wikipedia.org/wiki/The_Russian_Review" refines="#translator-5" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-6">Marian Fell</dc:contributor>
 		<meta property="file-as" refines="#translator-6">Fell, Marian</meta>
