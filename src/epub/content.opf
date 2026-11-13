@@ -93,7 +93,7 @@
 		<dc:contributor id="translator-2">Sergius Stepniak</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Stepniak, Sergius</meta>
 		<meta property="alternate-script" refines="#translator-2">Сергій Михайлович Степняк-Кравчинський</meta>
-		<link href="https://en.wikipedia.org/wiki/Sergey_Stepnyak-Kravchinsky" refines="#translator-2" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Sergei_Stepniak" refines="#translator-2" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79111446.html" refines="#translator-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
